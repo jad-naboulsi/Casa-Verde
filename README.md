@@ -1,4 +1,16 @@
 # Casa Verde — React restaurant website prototype
+Live Website
+Casa Verde is a responsive Italian restaurant website built using ReactJS.
+Live Website: https://casa-verdee.netlify.app
+
+GitHub Repository: https://github.com/jad-naboulsi/Casa-Verde
+
+Features
+Five pages: Home, About, Menu, Gallery, and Contact
+Menu filtering by category
+Responsive layout for desktop and mobile
+Restaurant gallery
+Contact form demonstration
 
 A five-page Italian restaurant showcase built with React, React Router, Bootstrap CSS and custom CSS.
 
